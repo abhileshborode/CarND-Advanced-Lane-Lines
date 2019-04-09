@@ -99,7 +99,7 @@ I did this in the cell 13 under `Image pipeline` in my code in `lanedetection.ip
 
 
 
-![Demo video](output_images/Lane.gif)(https://youtu.be/YnfnWrZ8H4k)
+[![Demo video](output_images/Lane.gif)](https://youtu.be/YnfnWrZ8H4k)
 
 
 ## Dependencies
