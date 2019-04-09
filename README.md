@@ -1,6 +1,6 @@
 
 
-###Advanced Lane Finding Project
+### Advanced Lane Finding Project
 
 The goals / steps of this project are the following:
 
@@ -99,17 +99,23 @@ I did this in the cell 13 under `Image pipeline` in my code in `lanedetection.ip
 
 
 
-![Demo video](output_images/Lane.gif)(/home/abhilesh/Downloads/Lane.gif)
+![Demo video](output_images/Lane.gif)(https://youtu.be/YnfnWrZ8H4k)
+
+
+## Dependencies
+
+[1] OpenCV\
+[2] Numpy \
+[3] Movie.py
+
+
+## Run Instructions
+```bash
+jupyter notebook lanedetection.ipynb 
+```
 
 ---
 
-### Pipeline (video)
-
-#### 1.  The pipeline performs reasonably well on the entire project video.
-
-Here's a [link to my video result](./final_video.mp4 )
-
----
 
 ### Discussion
 
