@@ -1,6 +1,6 @@
 
 
-**Advanced Lane Finding Project**
+###Advanced Lane Finding Project
 
 The goals / steps of this project are the following:
 
@@ -30,7 +30,7 @@ The goals / steps of this project are the following:
 
 ### Camera Calibration
 
-#### 1. Briefly state how you computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image.
+
 
 The code for this step is contained in the first code cell of the IPython notebook called `lanedetection.ipynb`.  
 
@@ -98,7 +98,8 @@ I did this in the cell 13 under `Image pipeline` in my code in `lanedetection.ip
 
 
 
-![alt text][image8]
+
+![Demo video](output_images/Lane.gif)(/home/abhilesh/Downloads/Lane.gif)
 
 ---
 
